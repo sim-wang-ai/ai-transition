@@ -1,1 +1,1 @@
-# ai-transition
+This repo trains a simple sklearn model on the Titanic dataset, saves it to model/model.pkl, exposes a FastAPI prediction endpoint at /predict, and includes unit tests. Commands to train, run locally, run tests, and build/run Docker are provided below.
